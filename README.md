@@ -1,0 +1,1 @@
+AlmaLinux 10 bootc image for the UDOO Bolt (FDB + OpenBao host). Install with the AlmaLinux 10 ISO and `inst.ks=https://raw.githubusercontent.com/V-Sekai-fire/service-bao-bolt-os/main/bolt.ks`. Updates itself with `bootc upgrade`.
